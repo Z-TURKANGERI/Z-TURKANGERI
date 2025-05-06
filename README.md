@@ -29,8 +29,8 @@ I am a passionate **Software QA Engineer** with hands-on experience in **manual 
 ### 📫 Let's Connect!
 - 📞 Call: **8431002929**
 - 📧 Email: **zturkangeri@gmail.com**
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zuberahmedturkangeri/)
-- 📄 [Resume (PDF)]([https://github.com/user-attachments/files/16611644/ZUBERAHMED_QA_RESUME.pdf](https://github.com/Z-TURKANGERI/Z-TURKANGERI/blob/8a1e3b13f072bdc09be8764139a73e0b40bc1515/QA_ZUBER_RESUME.pdf))
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zuberahmed-turkangeri/)
+- 📄 [Resume (PDF)](https://github.com/Z-TURKANGERI/Z-TURKANGERI/blob/8a1e3b13f072bdc09be8764139a73e0b40bc1515/QA_ZUBER_RESUME.pdf)
 
 ---
 
